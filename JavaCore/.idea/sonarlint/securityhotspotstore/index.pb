@@ -5,3 +5,5 @@ H
 src/HomeWork/Task_0.java,2\0\206711f4b995aabe946db3725426c15554281e0a
 H
 src/HomeWork/Task_1.java,2\e\2e64007358da679e36701fa52e44051690f1fb88
+H
+src/HomeWork/Task_3.java,7\b\7bb4a7c7ce300c2f3ce27d9396aaea08b348a67e
