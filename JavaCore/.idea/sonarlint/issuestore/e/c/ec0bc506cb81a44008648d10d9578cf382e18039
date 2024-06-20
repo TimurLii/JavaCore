@@ -1,0 +1,12 @@
+
+C
+java:S1481	"&Remove this unused "k" local variable.(Ğ÷¸8¨Á¡¦ƒ2
+L
+java:S1481
+"*Remove this unused "index" local variable.(îì´Ëıÿÿÿÿ8©Á¡¦ƒ2
+G
+java:S1197"*Move the array designators [] to the type.(Æ¾İ¯8¬Á¡¦ƒ2
+v
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¼˜ÖÓ8¬Á¡¦ƒ2
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8°Á¡¦ƒ2
